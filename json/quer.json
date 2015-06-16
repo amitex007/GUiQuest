@@ -1,0 +1,11 @@
+[
+	{
+		"sessionId":"session1233444",
+		"queryString":"select * from customerdata"
+	},
+	{
+		"sessionId":"session1234566",
+		"queryString":"show tables"
+	}
+
+	]
